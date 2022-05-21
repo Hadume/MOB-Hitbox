@@ -1,4 +1,4 @@
-# MOB-s-Hitbox
+# MOB-Hitbox
 ## 概要  
 Minecraftの全てのMOBのヒットボックスを判定できます  
 MCVer 「1.17.x」「1.18.x」 で動きます  
