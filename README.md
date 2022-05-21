@@ -10,7 +10,7 @@ MCVer 「1.17.x」「1.18.x」 で動きます
   
 ## サンプルコマンド  
 - BulletというタグのMOBが、ヒットボックスが重なっているMOBにダメージを与える  
-	execute as @e[type=minecraft:armor_stand,tag=Bullet] at @s as @e[type=!minecraft:armor_stand,distance=..50] positioned ~-50 ~-50 ~-50 if predicate hitbox:hitbox run effect give @s minecraft:instant_damage 1 0 true  
+	execute as @e[type=minecraft:armor_stand,tag=Bullet] at @s as @e[tag=!Bullet,distance=..50] positioned ~-50 ~-50 ~-50 if predicate hitbox:hitbox run effect give @s minecraft:instant_damage 1 0 true  
 <br>
   
 ## 注意点  
