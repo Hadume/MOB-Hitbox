@@ -1,0 +1,3038 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:armor_stand",
+                "nbt": "{Small:0b,Marker:0b}",
+                "distance": {
+                    "x": {
+                        "min": 49.75,
+                        "max": 50.25
+                    },
+                    "y": {
+                        "min": 48.025,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.75,
+                        "max": 50.25
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:armor_stand",
+                "nbt": "{Small:1b,Marker:0b}",
+                "distance": {
+                    "x": {
+                        "min": 49.875,
+                        "max": 50.125
+                    },
+                    "y": {
+                        "min": 49.0125,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.875,
+                        "max": 50.125
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:axolotl",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.35,
+                        "max": 50.65
+                    },
+                    "y": {
+                        "min": 49.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.35,
+                        "max": 50.65
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:axolotl",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.675,
+                        "max": 50.325
+                    },
+                    "y": {
+                        "min": 49.7,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.675,
+                        "max": 50.325
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:bat",
+                "distance": {
+                    "x": {
+                        "min": 49.75,
+                        "max": 50.25
+                    },
+                    "y": {
+                        "min": 49.1,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.75,
+                        "max": 50.25
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:bee",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.65,
+                        "max": 50.35
+                    },
+                    "y": {
+                        "min": 49.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.65,
+                        "max": 50.35
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:bee",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.825,
+                        "max": 50.175
+                    },
+                    "y": {
+                        "min": 49.7,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.825,
+                        "max": 50.175
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:blaze",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:cat",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:cat",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.65,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:cave_spider",
+                "distance": {
+                    "x": {
+                        "min": 49.65,
+                        "max": 50.35
+                    },
+                    "y": {
+                        "min": 49.5,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.65,
+                        "max": 50.35
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:chicken",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.8,
+                        "max": 50.2
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.8,
+                        "max": 50.2
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:chicken",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.9,
+                        "max": 50.1
+                    },
+                    "y": {
+                        "min": 49.65,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.9,
+                        "max": 50.1
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:cod",
+                "distance": {
+                    "x": {
+                        "min": 49.5,
+                        "max": 50.5
+                    },
+                    "y": {
+                        "min": 49.7,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.5,
+                        "max": 50.5
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:cow",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 48.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:cow",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:creeper",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:dolphin",
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 49.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:donkey",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    },
+                    "y": {
+                        "min": 48.5,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:donkey",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    },
+                    "y": {
+                        "min": 49.25,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:drowned",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:drowned",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 48.025,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:ender_dragon",
+                "distance": {
+                    "x": {
+                        "min": 42.0,
+                        "max": 58.0
+                    },
+                    "y": {
+                        "min": 42.0,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 42.0,
+                        "max": 58.0
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:enderman",
+                "nbt": "{AngerTime:0}",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 47.1,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:enderman",
+                "targeted_entity": {},
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 46.75,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:endermite",
+                "distance": {
+                    "x": {
+                        "min": 49.8,
+                        "max": 50.2
+                    },
+                    "y": {
+                        "min": 49.7,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.8,
+                        "max": 50.2
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:evoker",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:fox",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:fox",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.65,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:ghast",
+                "distance": {
+                    "x": {
+                        "min": 48.0,
+                        "max": 52.0
+                    },
+                    "y": {
+                        "min": 46.0,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.0,
+                        "max": 52.0
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:giant",
+                "distance": {
+                    "x": {
+                        "min": 48.2,
+                        "max": 51.8
+                    },
+                    "y": {
+                        "min": 38.0,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.2,
+                        "max": 51.8
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:glow_squid",
+                "distance": {
+                    "x": {
+                        "min": 49.6,
+                        "max": 50.4
+                    },
+                    "y": {
+                        "min": 49.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6,
+                        "max": 50.4
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:goat",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 48.7,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:goat",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.35,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:guardian",
+                "distance": {
+                    "x": {
+                        "min": 49.575,
+                        "max": 50.425
+                    },
+                    "y": {
+                        "min": 49.15,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.575,
+                        "max": 50.425
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:hoglin",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    },
+                    "y": {
+                        "min": 48.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:hoglin",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:horse",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    },
+                    "y": {
+                        "min": 48.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:horse",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    },
+                    "y": {
+                        "min": 49.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:husk",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:husk",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.25,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:illusioner",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:iron_golem",
+                "distance": {
+                    "x": {
+                        "min": 49.3,
+                        "max": 50.7
+                    },
+                    "y": {
+                        "min": 47.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.3,
+                        "max": 50.7
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:llama",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 48.13,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:llama",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.065,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:0}",
+                "distance": {
+                    "x": {
+                        "min": 49.7399,
+                        "max": 50.2601
+                    },
+                    "y": {
+                        "min": 49.4798,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7399,
+                        "max": 50.2601
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:1}",
+                "distance": {
+                    "x": {
+                        "min": 49.4798,
+                        "max": 50.5202
+                    },
+                    "y": {
+                        "min": 48.9596,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.4798,
+                        "max": 50.5202
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:2}",
+                "distance": {
+                    "x": {
+                        "min": 49.2197,
+                        "max": 50.7803
+                    },
+                    "y": {
+                        "min": 48.4394,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.2197,
+                        "max": 50.7803
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:3}",
+                "distance": {
+                    "x": {
+                        "min": 48.9596,
+                        "max": 51.0404
+                    },
+                    "y": {
+                        "min": 47.9192,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.9596,
+                        "max": 51.0404
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:4}",
+                "distance": {
+                    "x": {
+                        "min": 48.6955,
+                        "max": 51.3005
+                    },
+                    "y": {
+                        "min": 47.399,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.6955,
+                        "max": 51.3005
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:5}",
+                "distance": {
+                    "x": {
+                        "min": 48.4394,
+                        "max": 51.5606
+                    },
+                    "y": {
+                        "min": 46.8788,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.4394,
+                        "max": 51.5606
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:6}",
+                "distance": {
+                    "x": {
+                        "min": 48.1793,
+                        "max": 51.8207
+                    },
+                    "y": {
+                        "min": 46.3582,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.1793,
+                        "max": 51.8207
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:7}",
+                "distance": {
+                    "x": {
+                        "min": 47.9192,
+                        "max": 52.0808
+                    },
+                    "y": {
+                        "min": 45.8384,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 47.9192,
+                        "max": 52.0808
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:8}",
+                "distance": {
+                    "x": {
+                        "min": 47.6591,
+                        "max": 52.3409
+                    },
+                    "y": {
+                        "min": 45.3182,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 47.6591,
+                        "max": 52.3409
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:magma_cube",
+                "nbt": "{Size:9}",
+                "distance": {
+                    "x": {
+                        "min": 47.399,
+                        "max": 52.601
+                    },
+                    "y": {
+                        "min": 44.798,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 47.399,
+                        "max": 52.601
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:mooshroom",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 48.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:mooshroom",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:mule",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    },
+                    "y": {
+                        "min": 48.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:mule",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    },
+                    "y": {
+                        "min": 49.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:ocelot",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:ocelot",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.65,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:panda",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.35,
+                        "max": 50.65
+                    },
+                    "y": {
+                        "min": 48.75,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.35,
+                        "max": 50.65
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:panda",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.675,
+                        "max": 50.325
+                    },
+                    "y": {
+                        "min": 49.375,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.675,
+                        "max": 50.325
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:parrot",
+                "distance": {
+                    "x": {
+                        "min": 49.75,
+                        "max": 50.25
+                    },
+                    "y": {
+                        "min": 49.1,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.75,
+                        "max": 50.25
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:phantom",
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 49.5,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:pig",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 49.1,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:pig",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.55,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:piglin",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:piglin_brute",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:pillager",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:player",
+                "flags": {
+                    "is_sneaking": false,
+                    "is_swimming": false
+                },
+                "nbt": "{SleepTimer:0s}",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:player",
+                "flags": {
+                    "is_sneaking": true
+                },
+                "nbt": "{SleepTimer:0s}",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.5,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:player",
+                "flags": {
+                    "is_swimming": true
+                },
+                "nbt": "{SleepTimer:0s}",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 49.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:player",
+                "distance": {
+                    "x": {
+                        "min": 49.9,
+                        "max": 50.1
+                    },
+                    "y": {
+                        "min": 49.9,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.9,
+                        "max": 50.1
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:polar_bear",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.3,
+                        "max": 50.7
+                    },
+                    "y": {
+                        "min": 48.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.3,
+                        "max": 50.7
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:polar_bear",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.65,
+                        "max": 50.35
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.65,
+                        "max": 50.35
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:pufferfish",
+                "nbt": "{PuffState:0}",
+                "distance": {
+                    "x": {
+                        "min": 49.825,
+                        "max": 50.175
+                    },
+                    "y": {
+                        "min": 49.65,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.825,
+                        "max": 50.175
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:pufferfish",
+                "nbt": "{PuffState:1}",
+                "distance": {
+                    "x": {
+                        "min": 49.755,
+                        "max": 50.245
+                    },
+                    "y": {
+                        "min": 49.51,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.755,
+                        "max": 50.245
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:pufferfish",
+                "nbt": "{PuffState:2}",
+                "distance": {
+                    "x": {
+                        "min": 49.65,
+                        "max": 50.35
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.65,
+                        "max": 50.35
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:rabbit",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.2,
+                        "max": 50.8
+                    },
+                    "y": {
+                        "min": 49.5,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.2,
+                        "max": 50.8
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:rabbit",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.1,
+                        "max": 50.9
+                    },
+                    "y": {
+                        "min": 49.75,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.1,
+                        "max": 50.9
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:ravager",
+                "distance": {
+                    "x": {
+                        "min": 49.025,
+                        "max": 50.975
+                    },
+                    "y": {
+                        "min": 47.8,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.025,
+                        "max": 50.975
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:salmon",
+                "distance": {
+                    "x": {
+                        "min": 49.65,
+                        "max": 50.35
+                    },
+                    "y": {
+                        "min": 49.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.65,
+                        "max": 50.35
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:sheep",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 48.7,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:sheep",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.35,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:shulker",
+                "nbt": "{Peek:0b}",
+                "distance": {
+                    "x": {
+                        "min": 49.5,
+                        "max": 50.5
+                    },
+                    "y": {
+                        "min": 49.0,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.5,
+                        "max": 50.5
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:shulker",
+                "nbt": "{Peek:100b}",
+                "distance": {
+                    "x": {
+                        "min": 49.5,
+                        "max": 50.5
+                    },
+                    "y": {
+                        "min": 48.0,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.5,
+                        "max": 50.5
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:shulker",
+                "distance": {
+                    "x": {
+                        "min": 49.5,
+                        "max": 50.5
+                    },
+                    "y": {
+                        "min": 48.8,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.5,
+                        "max": 50.5
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:silverfish",
+                "distance": {
+                    "x": {
+                        "min": 49.8,
+                        "max": 50.2
+                    },
+                    "y": {
+                        "min": 49.7,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.8,
+                        "max": 50.2
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:skeleton",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.01,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:skeleton_horse",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    },
+                    "y": {
+                        "min": 48.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:skeleton_horse",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    },
+                    "y": {
+                        "min": 49.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:0}",
+                "distance": {
+                    "x": {
+                        "min": 49.7399,
+                        "max": 50.2601
+                    },
+                    "y": {
+                        "min": 49.4798,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7399,
+                        "max": 50.2601
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:1}",
+                "distance": {
+                    "x": {
+                        "min": 49.4798,
+                        "max": 50.5202
+                    },
+                    "y": {
+                        "min": 48.9596,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.4798,
+                        "max": 50.5202
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:2}",
+                "distance": {
+                    "x": {
+                        "min": 49.2197,
+                        "max": 50.7803
+                    },
+                    "y": {
+                        "min": 48.4394,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.2197,
+                        "max": 50.7803
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:3}",
+                "distance": {
+                    "x": {
+                        "min": 48.9596,
+                        "max": 51.0404
+                    },
+                    "y": {
+                        "min": 47.9192,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.9596,
+                        "max": 51.0404
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:4}",
+                "distance": {
+                    "x": {
+                        "min": 48.6955,
+                        "max": 51.3005
+                    },
+                    "y": {
+                        "min": 47.399,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.6955,
+                        "max": 51.3005
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:5}",
+                "distance": {
+                    "x": {
+                        "min": 48.4394,
+                        "max": 51.5606
+                    },
+                    "y": {
+                        "min": 46.8788,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.4394,
+                        "max": 51.5606
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:6}",
+                "distance": {
+                    "x": {
+                        "min": 48.1793,
+                        "max": 51.8207
+                    },
+                    "y": {
+                        "min": 46.3582,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 48.1793,
+                        "max": 51.8207
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:7}",
+                "distance": {
+                    "x": {
+                        "min": 47.9192,
+                        "max": 52.0808
+                    },
+                    "y": {
+                        "min": 45.8384,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 47.9192,
+                        "max": 52.0808
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:8}",
+                "distance": {
+                    "x": {
+                        "min": 47.6591,
+                        "max": 52.3409
+                    },
+                    "y": {
+                        "min": 45.3182,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 47.6591,
+                        "max": 52.3409
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:slime",
+                "nbt": "{Size:9}",
+                "distance": {
+                    "x": {
+                        "min": 47.399,
+                        "max": 52.601
+                    },
+                    "y": {
+                        "min": 44.798,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 47.399,
+                        "max": 52.601
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:snow_golem",
+                "distance": {
+                    "x": {
+                        "min": 49.65,
+                        "max": 50.35
+                    },
+                    "y": {
+                        "min": 48.1,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.65,
+                        "max": 50.35
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:spider",
+                "distance": {
+                    "x": {
+                        "min": 49.3,
+                        "max": 50.7
+                    },
+                    "y": {
+                        "min": 49.1,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.3,
+                        "max": 50.7
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:squid",
+                "distance": {
+                    "x": {
+                        "min": 49.6,
+                        "max": 50.4
+                    },
+                    "y": {
+                        "min": 49.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6,
+                        "max": 50.4
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:sheep",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.01,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:strider",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 48.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:strider",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.15,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:trader_llama",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 48.13,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:trader_llama",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.775,
+                        "max": 50.225
+                    },
+                    "y": {
+                        "min": 49.065,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.775,
+                        "max": 50.225
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:tropical_fish",
+                "distance": {
+                    "x": {
+                        "min": 49.75,
+                        "max": 50.25
+                    },
+                    "y": {
+                        "min": 49.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.75,
+                        "max": 50.25
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:turtle",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.4,
+                        "max": 50.6
+                    },
+                    "y": {
+                        "min": 49.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.4,
+                        "max": 50.6
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:turtle",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.82,
+                        "max": 50.18
+                    },
+                    "y": {
+                        "min": 49.88,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.82,
+                        "max": 50.18
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:vex",
+                "distance": {
+                    "x": {
+                        "min": 49.8,
+                        "max": 50.2
+                    },
+                    "y": {
+                        "min": 49.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.8,
+                        "max": 50.2
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:villager",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:villager",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.025,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:vindicator",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:wandering_trader",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:witch",
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:wither",
+                "distance": {
+                    "x": {
+                        "min": 49.55,
+                        "max": 50.45
+                    },
+                    "y": {
+                        "min": 46.5,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.55,
+                        "max": 50.45
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:wither_skeleton",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.65,
+                        "max": 50.35
+                    },
+                    "y": {
+                        "min": 47.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.65,
+                        "max": 50.35
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:wolf",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 49.15,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:wolf",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.575,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zoglin",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    },
+                    "y": {
+                        "min": 48.6,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zoglin",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    },
+                    "y": {
+                        "min": 49.3,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombie",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombie",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.025,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombie_horse",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    },
+                    "y": {
+                        "min": 48.4,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.30175,
+                        "max": 50.69825
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombie_horse",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    },
+                    "y": {
+                        "min": 49.2,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.6509,
+                        "max": 50.3491
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombie_villager",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombie_villager",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.025,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombified_piglin",
+                "flags": {
+                    "is_baby": false
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.7,
+                        "max": 50.3
+                    },
+                    "y": {
+                        "min": 48.05,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.7,
+                        "max": 50.3
+                    }
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "minecraft:zombified_piglin",
+                "flags": {
+                    "is_baby": true
+                },
+                "distance": {
+                    "x": {
+                        "min": 49.85,
+                        "max": 50.15
+                    },
+                    "y": {
+                        "min": 49.025,
+                        "max": 50.0
+                    },
+                    "z": {
+                        "min": 49.85,
+                        "max": 50.15
+                    }
+                }
+            }
+        }
+    ]
+}
